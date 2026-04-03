@@ -1,0 +1,13 @@
+# Mod 0rganizer 2 metadata file
+/meta.ini
+
+# Possible auxiliary files
+*.tmp
+*.tmp.*
+*.bkp
+*.bkp.*
+*.nte
+*.nte.*
+
+# Logs
+*.log
